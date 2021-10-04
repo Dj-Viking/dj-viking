@@ -1,6 +1,6 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dj-viking&show_icons=true&theme=vue)](https://dj-viking.github.io/react-portfolio/) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dj-viking&show_icons=true&theme=vue-dark)](https://dj-viking.github.io/react-portfolio/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-viking&layout=compact&langs_count=12&theme=vue)](https://dj-viking.github.io/react-portfolio/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-viking&layout=compact&langs_count=12&theme=vue-dark)](https://dj-viking.github.io/react-portfolio/)
 
 ### Hi there 👋
 
