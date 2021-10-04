@@ -1,3 +1,5 @@
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dj-viking&show_icons=true&theme=gruvbox)](https://dj-viking.github.io/react-portfolio/) 
+
 ### Hi there 👋
 
 <!--
