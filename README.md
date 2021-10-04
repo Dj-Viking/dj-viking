@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-viking&layout=compact&langs_count=12&theme=vue-dark)](https://dj-viking.github.io/react-portfolio/)
 
-### Hi there 👋
+### Hi there! 👋 
 
 <!--
 **Dj-Viking/dj-viking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
