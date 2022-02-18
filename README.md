@@ -1,6 +1,6 @@
 
 ### Hi there! 👋 
-* Come check out my portfolio site <a href="https://dj-viking.github.io/react-portfolio/" rel="noopener noreferrer">here!</a>
+* Come check out my portfolio site <a style="font-size: 50px;" href="https://dj-viking.github.io/react-portfolio/" rel="noopener noreferrer">here!</a>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dj-viking&show_icons=true&theme=vue-dark)](https://dj-viking.github.io/react-portfolio/) 
 
