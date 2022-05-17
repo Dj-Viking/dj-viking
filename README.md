@@ -2,7 +2,7 @@
 # Hi there! 👋 
 ## <a href="https://dj-viking.github.io/react-portfolio/" rel="noopener noreferrer">Come check out my portfolio site here!</a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-viking&layout=compact&langs_count=14&theme=vue-dark)](https://dj-viking.github.io/react-portfolio/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-viking&layout=compact&langs_count=14&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
