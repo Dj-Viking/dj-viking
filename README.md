@@ -9,6 +9,7 @@
       alt="Top Languages Used" />
 </a>
 
+<a href="https://data.typeracer.com/pit/profile?user=dj_viking&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=dj_viking" border="0" alt="TypeRacer.com scorecard for user dj_viking"/></a>
 
 <!--
 **Dj-Viking/dj-viking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
