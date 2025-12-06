@@ -3,11 +3,11 @@
 ## <a href="https://dj-viking.github.io/react-portfolio/" rel="noopener noreferrer">Come check out my portfolio site here!</a> 
 
 
-<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer">
+<!-- <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer">
   <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj-viking&layout=compact&langs_count=14&theme=vue-dark" 
       alt="Top Languages Used" />
-</a>
+</a> -->
 
 <a href="https://data.typeracer.com/pit/profile?user=dj_viking&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=dj_viking" border="0" alt="TypeRacer.com scorecard for user dj_viking"/></a>
 
